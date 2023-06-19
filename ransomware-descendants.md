@@ -36,9 +36,12 @@
 
 | Family      | Reference |
 | ----------- | ----------- |
+| Akira                   | https://labs.k7computing.com/index.php/akira-ransomware-unleashing-chaos-using-conti-leaks/ |
 | BlueSky                 | https://blog.cyble.com/2022/12/22/new-ransomware-strains-emerging-from-leaked-contis-source-code/ |
+| Gazprom                 | https://twitter.com/malwrhunterteam/status/1653869833816088576 |
 | Lockbit Green           | https://securityaffairs.com/141666/cyber-crime/lockbit-green-ransomware-variant.html |
 | MeowCorp                | https://www.bleepingcomputer.com/news/security/conti-based-ransomware-meowcorp-gets-free-decryptor/ |
+| Mimic                   | https://www.trendmicro.com/en_us/research/23/a/new-mimic-ransomware-abuses-everything-apis-for-its-encryption-p.html |
 | Monti (maybe?)          | https://blogs.blackberry.com/en/2022/09/the-curious-case-of-monti-ransomware-a-real-world-doppelganger |
 | Putin Team              | https://blog.cyble.com/2022/12/22/new-ransomware-strains-emerging-from-leaked-contis-source-code/ |
 | ScareCrow               | https://blog.cyble.com/2022/12/22/new-ransomware-strains-emerging-from-leaked-contis-source-code/ |
@@ -47,4 +50,7 @@
 
 | Family      | Reference |
 | ----------- | ----------- |
+| Bl00dy                  | https://www.bleepingcomputer.com/news/security/leaked-lockbit-30-builder-used-by-bl00dy-ransomware-gang-in-attacks/ |
 | Buhti                   | https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/buhti-ransomware |
+| SchoolBoys              | https://www.bleepingcomputer.com/news/security/tommyleaks-and-schoolboys-two-sides-of-the-same-ransomware-gang/ |
+| TommyLeaks              | https://www.bleepingcomputer.com/news/security/tommyleaks-and-schoolboys-two-sides-of-the-same-ransomware-gang/ |
