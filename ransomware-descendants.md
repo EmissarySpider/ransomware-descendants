@@ -12,11 +12,11 @@
 | Dataf Locker          | https://www.sentinelone.com/labs/hypervisor-ransomware-multiple-threat-actor-groups-hop-on-leaked-babuk-code-to-build-esxi-lockers/ |
 | Lock4                 | https://www.sentinelone.com/labs/hypervisor-ransomware-multiple-threat-actor-groups-hop-on-leaked-babuk-code-to-build-esxi-lockers/ |
 | Mario                 | https://www.sentinelone.com/labs/hypervisor-ransomware-multiple-threat-actor-groups-hop-on-leaked-babuk-code-to-build-esxi-lockers/ |
+| "Maze" 🥴 ESXi           | https://twitter.com/MalGamy12/status/1694416105803055464 |
 | Play                  | https://www.sentinelone.com/labs/hypervisor-ransomware-multiple-threat-actor-groups-hop-on-leaked-babuk-code-to-build-esxi-lockers/ |
 | PrideLocker           | https://www.synacktiv.com/en/publications/pridelocker-a-new-fork-of-babuk-esx-encryptor |
 | Revix Beta (v1.1 only) | https://www.sentinelone.com/labs/hypervisor-ransomware-multiple-threat-actor-groups-hop-on-leaked-babuk-code-to-build-esxi-lockers/ |
 | RTM Locker            | https://www.uptycs.com/blog/rtm-locker-ransomware-as-a-service-raas-linux/ |
-
 
 # Babuk Windows
 
@@ -30,7 +30,6 @@
 | Pandora                | https://www.cloudsek.com/blog/technical-analysis-of-emerging-sophisticated-pandora-ransomware-group |
 | RA Group               | https://blog.talosintelligence.com/ra-group-ransomware/ |
 | Rook                   | https://www.sentinelone.com/labs/new-rook-ransomware-feeds-off-the-code-of-babuk/ |
-
 
 # Conti Windows
 
