@@ -15,8 +15,10 @@
 | "Maze" 🥴 ESXi           | https://twitter.com/MalGamy12/status/1694416105803055464 |
 | Play                  | https://www.sentinelone.com/labs/hypervisor-ransomware-multiple-threat-actor-groups-hop-on-leaked-babuk-code-to-build-esxi-lockers/ |
 | PrideLocker           | https://www.synacktiv.com/en/publications/pridelocker-a-new-fork-of-babuk-esx-encryptor |
+| RagnarLocker          | https://twitter.com/malwrhunterteam/status/1705660901032960305 |
 | Revix Beta (v1.1 only) | https://www.sentinelone.com/labs/hypervisor-ransomware-multiple-threat-actor-groups-hop-on-leaked-babuk-code-to-build-esxi-lockers/ |
 | RTM Locker            | https://www.uptycs.com/blog/rtm-locker-ransomware-as-a-service-raas-linux/ |
+| SEXi Ransomware       | https://twitter.com/BushidoToken/status/1780646644725223910 |
 
 # Babuk Windows
 
